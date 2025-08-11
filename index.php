@@ -6,6 +6,11 @@
     <title>Documento</title>
 </head>
 <body>
-    
+    <form>
+		<label for="user">Usuario</label>
+		<input type="text" name="user">
+		<label for="user">COntrase</label>
+		<input type="text" name="pass">
+	</form>
 </body>
 </html>
