@@ -1,3 +1,4 @@
-.body{
-    background-color: black;
+.form__loginPRUEBA{
+    display: flex;
+    flex-direction: column;
 }
